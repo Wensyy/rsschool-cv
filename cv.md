@@ -60,3 +60,7 @@ palindrome("A man, a plan, a canal. Panama");
 ```
 
 ---
+
+#### Education:
+
+Ukrainian State University of Science and Technology, software engineer

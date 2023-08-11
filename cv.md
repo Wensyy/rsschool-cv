@@ -1,4 +1,6 @@
 ## **Ruslan Peresichnyi** 
+
+---
 *Student Rs-school*
 # Contact information:
 
@@ -11,4 +13,15 @@
 * ### *Inst: [p.ruslann](https://instagram.com/p.ruslann?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)*
 
 * ### *Telegram: @pruslann*
+
+--- 
+
+### Languages:
+
+* Ukranian
+
+* Russian
+
+* English (in progress)
+--- 
 

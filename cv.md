@@ -28,3 +28,15 @@
 #### About Myself:I am 18 years old, enrolled as a software engineer. In parallel, he began studying at rs school. I plan to develop my knowledge in the field of Front-end developer and become a worthy specialist. This is the beginning of my career, I will try to make every effort to see a decent result in a couple of years.
 
 ---
+
+#### Skills: 
+
+* HTML (in progress)
+
+* CSS (in progress)
+
+* JavaScript (in progress)
+
+* VS Code (in progress)
+
+---
